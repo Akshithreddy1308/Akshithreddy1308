@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Busi Reddy Akshith Reddy</h1>
-<h3 align="center">👋 Hey there! I'm a Computer Science student at Chaitanya Bharathi Institute of Technology (CBIT) passionate about technology and innovation. 💡 I thrive on solving complex problems and crafting creative solutions using my technical and analytical abilities. I'm always on the lookout for opportunities to learn and grow in the realms of Web Development, Machine Learning, and Competitive Programming.</h3>
+<h3 align="center">👋 Hello! I'm a driven Computer Science student at Chaitanya Bharathi Institute of Technology (CBIT), deeply passionate about technology and innovation. 💡 My forte lies in tackling intricate problems head-on and crafting ingenious solutions, leveraging my technical prowess and analytical skills. I am perpetually in pursuit of opportunities to expand my knowledge and excel in the dynamic fields of Web Development, Machine Learning, and Competitive Programming. Let's connect and explore the endless possibilities of the tech world! 🚀.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshithreddy1308&label=Profile%20views&color=0e75b6&style=flat" alt="akshithreddy1308" /> </p>
 
